@@ -218,7 +218,6 @@ h1 .tweet-avatar {
 .tweet-medias {
 	display: flex;
 	margin: 1em 0 0;
-	max-height: 10em;
 	gap: .5em;
 }
 .tweet-medias > a {
@@ -239,7 +238,6 @@ img.tweet-media {
 video.tweet-media {
 	max-width: 100%;
 	width: auto;
-	max-height: 10em;
 }
 .tweet-media-load-error {
 	display: block;
